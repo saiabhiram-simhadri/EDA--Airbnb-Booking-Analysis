@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#FF5A5F;">
   <img src="airbnb_logo.png" alt="Project Logo" width="30" height="35">
   <span>
-  <b>Airbnb Bookings Data Analysis</b>
+  <b>NYC Airbnb Bookings Data Analysis</b>
 </h1>
 
 This project performs a comprehensive Exploratory Data Analysis (EDA) on AirBnb bookings data to uncover key drivers of rental success in New York City.
