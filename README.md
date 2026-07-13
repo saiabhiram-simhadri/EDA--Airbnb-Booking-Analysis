@@ -61,7 +61,7 @@ The features (16 columns) are a mix of numeric data and text descritions.
 
 ---
 
-## Solution to Business Objective
+## 🛠️ Solution to Business Objective
 1. ### Achieving Revenue Optimization (Pricing Strategy)
    
    **Target the $100–$200 bracket**: The initial distribution of pricing and the average price variation across boroughs and room types indicate the highly available price point is between this target range and could potentially lead to higher booking rates if listing is located in high demand area, generating consistent revenue and yielding better profit margins.
@@ -83,7 +83,7 @@ The features (16 columns) are a mix of numeric data and text descritions.
 
 ---
 
-## Conclusion
+## 🚀 Conclusion
 ### Technical Framework and Execution
 
   This exploratory data analysis followed a structured data pipeline by pre-handling the dataset before analysis, which included handling of over 10k missing records in key review tracking metrics and resolving structural anomalies in descriptive based fields and optimizing the data types for efficient processing.
