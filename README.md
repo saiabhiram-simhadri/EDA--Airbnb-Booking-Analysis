@@ -1,15 +1,15 @@
 # EDA--Airbnb-Booking-Analysis
-An exploratory data analysis conducted on Airbnb booking data
+This project performs a comprehensive Exploratory Data Analysis (EDA) on AirBnb bookings data to uncover key drivers of rental success in New York City.
 
 # Input Files
-- Airbnb_analysis.csv - The listing details of around 49k providing information of various aspects of booking.
+- Airbnb NYC 2019.csv - The dataset has listings information of over 48k unique properties in NYC across different boroughs.
 
 # Introduction
 
-AirBnb dataset has listings of over thousands of customers, it provides crucial information about the hosting and market demands of different property types across all boroughs in New York City.
+AirBnb dataset has listings information of over thousands of properties, it provides crucial information about the hosting and market demands of different property types across all boroughs in New York City.
 Analyzing these listings data can uncover valuable insights into how hosts can manage properties based on type and where they located, to optimize the amenities and pricing for maximizing the revenue thus creating profitable margins.
 
-This project performs a comprehensive Exploratory Data Analysis (EDA) on this data to uncover key drivers of rental success in NYC. The analysis pipeline covers data wrangling and follows systematic approach with UBM (Univariate, Bivariate, Multivariate) to process and reveal insights.
+The analysis pipeline covers data wrangling and follows systematic approach with UBM (Univariate, Bivariate, Multivariate) to process and reveal insights.
 
 ## Dataset Features
  - id
