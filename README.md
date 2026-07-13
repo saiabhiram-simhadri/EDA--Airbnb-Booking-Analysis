@@ -12,22 +12,22 @@ Analyzing these listings data can uncover valuable insights into how hosts can m
 The analysis pipeline covers data wrangling and follows systematic approach with UBM (Univariate, Bivariate, Multivariate) to process and reveal insights.
 
 ## Dataset Features
- - id
- - name
- - host_id
- - host_name
- - neighbourhood_group
- - neighbourhood
- - latitude
- - longitude
- - room_type
- - price
- - minimum_nights
- - number_of_reviews
- - last_review
- - reviews_per_month
- - calculated_host_listings_count
- - availability_365
+ - **id**: unique identifier for each listing
+ - **name**: title or description of the listing
+ - **host_id**: unique identifier for the host
+ - **host_name**: name of the host
+ - **neighbourhood_group**: the borough where the listing is located
+ - **neighbourhood**: the specific neighborhood within the borough
+ - **latitude**: latitude coordinate of the listing
+ - **longitude**: longitude coordinate of the listing
+ - **room_type**: type of accommodation offered
+ - **price**: nightly rental price for the listing
+ - **minimum_nights**: minimum number of nights required to book the listing
+ - **number_of_reviews**: total number of reviews received by the listing
+ - **last_review**: date of the most recent review
+ - **reviews_per_month**: average number of reviews the listing receives per month
+ - **calculated_host_listings_count**: total number of listings the host has on Airbnb
+ - **availability_365**: number of days the listing is available for booking within a year
 
 # Solution to Business Objective
 1. ### Achieving Revenue Optimization (Pricing Strategy)
